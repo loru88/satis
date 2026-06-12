@@ -38,7 +38,7 @@
         "bin/satis"
     ],
     "require": {
-        "php": "^8.3",
+        "php": "^8.4",
         "ext-zip": "*",
         "composer/composer": "^2.9.4",
         "composer-plugin-api": "^2.3.0",
